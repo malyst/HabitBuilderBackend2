@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitBuilder_Backend2", "HabitBuilder_Backend2.csproj", "{D700442C-B066-48D3-BE10-1429E09887CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D700442C-B066-48D3-BE10-1429E09887CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D700442C-B066-48D3-BE10-1429E09887CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D700442C-B066-48D3-BE10-1429E09887CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D700442C-B066-48D3-BE10-1429E09887CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3FE695B-E8C6-41EB-838B-E8599C6881E2}
+	EndGlobalSection
+EndGlobal
